@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c478060.css",
+    "main.js": "/static/js/main.a25def77.js",
+    "static/media/womenscloth.jpg": "/static/media/womenscloth.11214e0bb451bea84f44.jpg",
+    "static/media/menscloth.jpg": "/static/media/menscloth.ab95ba6b7d92c4671b16.jpg",
+    "static/media/electronic.jpg": "/static/media/electronic.d453946611ca7e818e68.jpg",
+    "static/media/jewelery.jpg": "/static/media/jewelery.b217d057e61599bb5c88.jpg",
+    "static/media/heroimg.png": "/static/media/heroimg.a70da2bb3df1539049f9.png",
+    "static/media/payment.png": "/static/media/payment.2471c6f01c2407404915.png",
+    "static/media/leaf.png": "/static/media/leaf.adce1b7f3dd9673d6ebf.png",
+    "static/media/logo.png": "/static/media/logo.4ea6d7db468e68ecf9be.png",
+    "static/media/headphones.png": "/static/media/headphones.f961f4d852eecb578466.png",
+    "static/media/free.png": "/static/media/free.530a85be5a8bdabab92b.png",
+    "static/media/happiness.png": "/static/media/happiness.23cff1a7ee2976d1d4e7.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0c478060.css.map": "/static/css/main.0c478060.css.map",
+    "main.a25def77.js.map": "/static/js/main.a25def77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c478060.css",
+    "static/js/main.a25def77.js"
+  ]
+}
